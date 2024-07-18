@@ -23,3 +23,7 @@
     - Advanced Information
     - Edit
     - Views Count
+
+      Sessions
+    - Unset And Destroy
+    - Login And Logout Simulation
